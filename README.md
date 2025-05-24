@@ -13,5 +13,5 @@
 **Clone dự án:**
 
 ```bash
-    https://github.com/your-username/hand-volume-control.git
+   git@github.com:qhuyitb/hands_control.git
    cd hand-volume-control
